@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=150&color=fd1d1d&text=Daniel%20Gather&textBg=false&section=header&fontColor=black&reversal=true&fontAlign=50&fontAlignY=35
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
