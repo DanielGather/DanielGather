@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assets/img/header.svg" alt="Header" width="100%" />
+</p>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
