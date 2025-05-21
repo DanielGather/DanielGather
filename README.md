@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 04/2024<br>📚 I'm currently learning Python, Django<br>🎯 Goals: be 1% better than yesterday<br>📫 Wie du mich erreichst: kontakt@daniel-gather.de</p>
+<p align="left">✨ Creating bugs since 04/2024<br>📚 I'm currently learning Python, Django<br>🎯 Goals: be 1% better than yesterday<br>📫 How to reach me: kontakt@daniel-gather.de</p>
 
 ###
 
